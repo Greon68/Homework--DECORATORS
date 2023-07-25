@@ -1,0 +1,7 @@
+2023-07-25
+14:33:07.036557
+flat_generator
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],),kwargs={}
+<generator object flat_generator at 0x0000023252654900>
+([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]], <generator object flat_generator at 0x0000023252654900>)
+
